@@ -1,2 +1,2 @@
 print('hi')
-print('mercy-USA')
+print('mercy')
